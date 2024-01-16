@@ -5,5 +5,6 @@ public class Practice {
         System.out.println("version3 브랜치");
         System.out.println("충돌");
         System.out.println("version3 브랜치 2번째");
+        System.out.println("충돌2");
     }
 }
